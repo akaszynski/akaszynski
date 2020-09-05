@@ -1,8 +1,8 @@
 Hello!  My name is Alex Kaszynski and I'm a software developer and aerospace engineer. I'm an American living in the United States working for [ANSYS](https://www.ansys.com/).
 
-<!-- ## Blog & Writing -->
+## Blog & Writing
 
-<!-- Apart from coding, I've also started a blog - you can find my articles on my website at [DEV.to](https://dev.to/akaszynski).  I hope to write once a week. -->
+Apart from coding, I've also started a blog and you can find my articles at [DEV.to](https://dev.to/akaszynski).  I hope to write at least once a week.
 
 ## 🔧 Technologies & Tools
 ![](https:///badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
