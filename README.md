@@ -2,7 +2,7 @@ Hello!  My name is Alex Kaszynski and I'm a software developer and aerospace eng
 
 ## Blog & Writing
 
-Apart from coding, I've also started a blog and you can find my articles at [DEV.to](https://dev.to/akaszynski).  I hope to write at least once a week.
+Apart from coding, I've also started a blog and you can find my articles at [DEV.to](https://dev.to/akaszynski).
 
 ## 🔧 Technologies & Tools
 ![](https:///badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
