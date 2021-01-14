@@ -23,8 +23,8 @@ Apart from coding, I've also started a blog and you can find my articles at [DEV
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaszynski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex's GitHub Stats" />
 </a>
 
-<a href="https://github.com/akaszynski/pyansys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaszynski&repo=pyansys&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/pyansys/pymapdl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pyansys&repo=pymapdl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/akaszynski/keepa">
