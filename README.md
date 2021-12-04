@@ -1,4 +1,4 @@
-Hello!  My name is Alex Kaszynski and I'm a software developer and aerospace engineer. I'm an American living in the United States working for [ANSYS](https://www.ansys.com/).
+Hello!  My name is Alex Kaszynski and I'm a software developer and aerospace engineer. I'm an American living in the United States working for [Ansys](https://www.ansys.com/).
 
 ## Blog & Writing
 
