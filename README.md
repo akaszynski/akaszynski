@@ -1,6 +1,6 @@
 Hello!  My name is Alex Kaszynski and I'm a software developer and aerospace engineer. I'm an American living in the United States working for [Ansys](https://www.ansys.com/).
 
-For further details, see my full [resume]([url](https://github.com/akaszynski/resume)).
+For further details, see my full [resume](https://github.com/akaszynski/resume).
 
 ## Blog & Writing
 
