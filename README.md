@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Alex+Kaszynski...;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Alex+Kaszynski's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -10,15 +10,16 @@
 ## Brief introduction
 
 Hello!  My name is [Alex Kaszynski](https://www.linkedin.com/in//) and I'm a
-software developer and aerospace engineer. as well as co-creator of PyVista and
-creator of [PyAnsys](https://github.com/pyansys).
+software developer and aerospace engineer, as well as co-creator of
+[PyVista](https://docs.pyvista.org/) and creator of
+[PyAnsys](https://github.com/pyansys).
 
 I'm an American living in the United States working for
 [Ansys](https://www.ansys.com/) and [AFRL](https://www.afrl.af.mil/).
 
 Besides coding, I also enjoys presenting and demoing Python, especially [3D
-visualization](https://docs.pyvista.org/) but also its application to CAE and
-automation. You can find some of the articles at
+visualization](https://docs.pyvista.org/), particularly in its application to
+CAE and automation. You can also find some blog articles I've written at
 [DEV.to](https://dev.to/akaszynski).
 
 
@@ -74,6 +75,8 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 
