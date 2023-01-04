@@ -94,7 +94,7 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=akaszynski&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akaszynski&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
