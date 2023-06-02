@@ -14,8 +14,7 @@ software developer and aerospace engineer, as well as co-creator of
 [PyVista](https://docs.pyvista.org/) and creator of
 [PyAnsys](https://github.com/pyansys).
 
-I'm an American living in the United States working for
-[Ansys](https://www.ansys.com/) and [AFRL](https://www.afrl.af.mil/).
+I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/).
 
 Besides coding, I also enjoys presenting and demoing Python, especially [3D
 visualization](https://docs.pyvista.org/), particularly in its application to
@@ -94,7 +93,7 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akaszynski&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaszynski&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
