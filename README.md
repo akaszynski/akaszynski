@@ -9,14 +9,14 @@
 
 ## Brief introduction
 
-Hello!  My name is [Alex Kaszynski](https://www.linkedin.com/in//) and I'm a
-software developer and aerospace engineer, as well as co-creator of
-[PyVista](https://docs.pyvista.org/) and creator of
-[PyAnsys](https://github.com/pyansys).
+Hello! My name is [Alex Kaszynski](https://www.linkedin.com/in//) and I'm a
+software developer and aerospace engineer, as well as the co-creator of
+[PyVista](https://docs.pyvista.org/) and the creator of
+[PyAnsys](https://github.com/ansys).
 
-I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/).
+I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/) and [Pasteur Labs & ISI](https://pasteurlabs.ai/).
 
-Besides coding, I also enjoys presenting and demoing Python, especially [3D
+Besides coding, I also enjoys presenting and demoing Python libraries, especially [3D
 visualization](https://docs.pyvista.org/), particularly in its application to
 CAE and automation. You can also find some blog articles I've written at
 [DEV.to](https://dev.to/akaszynski).
