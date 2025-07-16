@@ -14,7 +14,7 @@ software developer and aerospace engineer, as well as the co-creator of
 [PyVista](https://docs.pyvista.org/) and the creator of
 [PyAnsys](https://github.com/ansys).
 
-I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/) and [Pasteur Labs & ISI](https://pasteurlabs.ai/).
+I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/).
 
 Besides coding, I also enjoys presenting and demoing Python libraries, especially [3D
 visualization](https://docs.pyvista.org/), particularly in its application to
