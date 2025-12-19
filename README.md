@@ -9,7 +9,7 @@
 
 ## Brief introduction
 
-Hello! My name is [Alex Kaszynski](https://www.linkedin.com/in//) and I'm a
+Hello! My name is Alex Kaszynski and I'm a
 software developer and aerospace engineer, as well as the co-creator of
 [PyVista](https://docs.pyvista.org/) and the creator of
 [PyAnsys](https://github.com/ansys).
@@ -33,9 +33,6 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
 ## :handshake: Connect with me!
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/alex-kaszynski-1319b1217/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
-  </a>
   <a href="https://www.github.com/akaszynski">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
   </a>
