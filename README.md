@@ -16,7 +16,7 @@ software developer and aerospace engineer, as well as the co-creator of
 
 I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/).
 
-Besides coding, I also enjoys presenting and demoing Python libraries, especially [3D
+Besides coding, I also enjoy presenting and demoing Python libraries, especially [3D
 visualization](https://docs.pyvista.org/), particularly in its application to
 CAE and automation. You can also find some blog articles I've written at
 [DEV.to](https://dev.to/akaszynski).
