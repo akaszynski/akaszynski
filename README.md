@@ -1,36 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akaszynski.akaszynski">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Alex+Kaszynski's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25">
-  </a>
-</h1>
-
-
 ## Brief introduction
 
-Hello! My name is Alex Kaszynski and I'm a
-software developer and aerospace engineer, as well as the co-creator of
+My name is Alex Kaszynski and I'm an American
+software developer and aerospace engineer working for [AFRL](https://www.afrl.af.mil/). Co-creator of
 [PyVista](https://docs.pyvista.org/) and the creator of
-[PyAnsys](https://github.com/ansys).
-
-I'm an American living in the United States working for [AFRL](https://www.afrl.af.mil/).
-
-Besides coding, I also enjoy presenting and demoing Python libraries, especially [3D
-visualization](https://docs.pyvista.org/), particularly in its application to
-CAE and automation. You can also find some blog articles I've written at
-[DEV.to](https://dev.to/akaszynski).
-
-
-### My resume
+[PyAnsys](https://github.com/ansys) and [FEMORPH](https://www.femorph.com/).
 
 You can see my resume on GitHub at
 [resume](https://github.com/akaszynski/resume), built using
 [LaTeX](https://www.latex-project.org/), along with several of my research
-papers published while working with [AFRL](https://www.afrl.af.mil/).
+[papers](https://github.com/akaszynski/resume/tree/master/papers) published while working with [AFRL](https://www.afrl.af.mil/).
 
 
-## :handshake: Connect with me!
+## Connect with me
 
 <div align=center>
   <a href="https://www.github.com/akaszynski">
@@ -45,7 +28,7 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
 </div>
 
 
-## :man_technologist: Software languages
+## Software languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -55,7 +38,7 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: Software tools
+## Software tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
@@ -69,25 +52,3 @@ papers published while working with [AFRL](https://www.afrl.af.mil/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
 </div>
-
-
-## ⚡ GitHub statistics
-
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=akaszynski&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=akaszynski&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaszynski&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-
-<!-- Resources -->
-<!-- Thanks @RobPasMue -->
